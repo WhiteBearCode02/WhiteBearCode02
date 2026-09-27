@@ -1,9 +1,11 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:6554C0,100:25A18E&height=5&section=header" alt="Color banner"/>
+
 # Hi, I'm Hyunjoon Lee.
 
-### Software Developer
+**Software Developer**
 
 Android Development · AI / Machine Learning · Full Stack
 
@@ -11,17 +13,17 @@ AI와 소프트웨어 기술을 활용해 실제 문제를 해결하는 개발�
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/YOLO-263A60?style=flat-square" alt="YOLO"/>
-<img src="https://img.shields.io/badge/MediaPipe-315A86?style=flat-square" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/YOLO-6941C6?style=for-the-badge" alt="YOLO"/>
+<img src="https://img.shields.io/badge/MediaPipe-1686A7?style=for-the-badge" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 
 </div>
 
@@ -40,8 +42,11 @@ Android 애플리케이션과 AI 모델 개발에 관심이 있으며,
 
 **Areas of Interest**
 
-`Android Development` `AI / Machine Learning`
-`Backend` `Frontend` `Full Stack`
+![Android](https://img.shields.io/badge/Android_Development-3DDC84?style=flat-square&logoColor=white)
+![AI](https://img.shields.io/badge/AI_%2F_Machine_Learning-6941C6?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-2563EB?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-0D9488?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-E58B30?style=flat-square)
 
 <br>
 
@@ -52,7 +57,7 @@ Android 애플리케이션과 AI 모델 개발에 관심이 있으며,
 Department of Computer Software Engineering  
 순천향대학교 컴퓨터소프트웨어공학과
 
-Expected Graduation: March 2027
+![Graduation](https://img.shields.io/badge/Expected_Graduation-March_2027-2563EB?style=flat-square)
 
 <br>
 
@@ -62,7 +67,7 @@ Expected Graduation: March 2027
 
 **Undergraduate Research Assistant**
 
-March 2025 – Present
+![Period](https://img.shields.io/badge/March_2025-Present-0D9488?style=flat-square)
 
 **Research Areas**
 
@@ -77,7 +82,8 @@ March 2025 – Present
 
 **Research Tech Stack**
 
-`Python` `PyTorch`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 <br>
 
@@ -85,13 +91,13 @@ March 2025 – Present
 
 ### Korea Multimedia Society
 
-**November 2025 | Conference Presentation**
+![Conference](https://img.shields.io/badge/Conference_Presentation-November_2025-6941C6?style=flat-square)
 
 **SUMO 기반 도시 교통 시뮬레이션을 활용한 신규 도로 개설 효과 분석 시스템 설계**
 
-도시 교통 시뮬레이션 SUMO를 활용한
-신규 도로 개설 효과 분석 시스템 설계를 주제로
-한국멀티미디어학회에서 발표했습니다.
+도시 교통 시뮬레이션 SUMO를 활용한 신규 도로 개설
+효과 분석 시스템 설계를 주제로 한국멀티미디어학회에서
+발표했습니다.
 
 <br>
 
@@ -99,11 +105,13 @@ March 2025 – Present
 
 ### ArPtApp
 
+![Main Project](https://img.shields.io/badge/MAIN_PROJECT-6941C6?style=flat-square)
+
 **AI-based Exercise Posture Analysis**
 
 AI 기반 운동 자세 분석 및 피드백 Android 애플리케이션
 
-**Role: Full Project Development**
+**Role**
 
 프로젝트의 전반적인 설계 및 개발을 담당했습니다.
 
@@ -125,13 +133,18 @@ MediaPipe의 자세 인식 결과가 반대로 해석되는
 
 **Tech Stack**
 
-`Kotlin` `Python` `YOLO` `MediaPipe`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-6941C6?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-1686A7?style=flat-square)
 
 [View Repository](https://github.com/WhiteBearCode02/ArPtApp)
 
 ---
 
 ### DeepLearning-Seminar
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-2563EB?style=flat-square)
 
 딥러닝 학습 및 실험 기록
 
@@ -141,6 +154,8 @@ MediaPipe의 자세 인식 결과가 반대로 해석되는
 
 ### Hangul Handwriting Recognition
 
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-6941C6?style=flat-square)
+
 한글 손글씨 인식 프로젝트
 
 [View Repository](https://github.com/WhiteBearCode02/hangul-hw-recognition)
@@ -148,6 +163,8 @@ MediaPipe의 자세 인식 결과가 반대로 해석되는
 ---
 
 ### Shopping Mall Project
+
+![Web Development](https://img.shields.io/badge/Web_Development-0D9488?style=flat-square)
 
 쇼핑몰 웹 개발 프로젝트
 
@@ -172,9 +189,9 @@ MediaPipe의 자세 인식 결과가 반대로 해석되는
 
 ## Contact
 
-**Email:** hyunjoon1258@gmail.com
+**Email:** [hyunjoon1258@gmail.com](mailto:hyunjoon1258@gmail.com)
 
-**GitHub:** https://github.com/WhiteBearCode02
+**GitHub:** [WhiteBearCode02](https://github.com/WhiteBearCode02)
 
 ---
 
